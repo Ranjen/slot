@@ -47,7 +47,7 @@ Execute the program using runserver command.
             </tr>
             <tr align="center">
                 <th bgcolor="orange">8am - 10am</th>
-                <td  colspan="2">CE</td>
+                <td colspan="2">CE</td>
                 <td>FWAD</td>
                 <td>PP</td>
                 <td>FREE SLOT</td>
@@ -91,22 +91,22 @@ Execute the program using runserver command.
             <tr align="center">
                 <td>1.</td>
                 <td>19AI414</td>
-                <td>Fundamentals of Web Application Development</td>
+                <td>Fundamentals of Web Application Development(FWAD)</td>
             </tr>
             <tr align="center">
                 <td>2.</td>
                 <td>19EN101</td>
-                <td>Communicative English</td>
+                <td>Communicative English(CE)</td>
             </tr>
             <tr align="center">
                 <td>3.</td>
                 <td>19AI301</td>
-                <td>Python Programming</td>
+                <td>Python Programming(PP)</td>
             </tr>
             <tr align="center">
                 <td>4.</td>
                 <td>ECA-M</td>
-                <td>Mentor Meeting</td>
+                <td>Mentor Meeting(MM)</td>
             </tr>
         </table>
     </body>
@@ -114,7 +114,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-26 231524.png>)
+![alt text](<Screenshot 2025-11-26 232856.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
