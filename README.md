@@ -47,8 +47,7 @@ Execute the program using runserver command.
             </tr>
             <tr align="center">
                 <th bgcolor="orange">8am - 10am</th>
-                <td>CE</td>
-                <td>CE</td>
+                <td  colspan="2">CE</td>
                 <td>FWAD</td>
                 <td>PP</td>
                 <td>FREE SLOT</td>
@@ -115,7 +114,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-26 135017.png>)
+![alt text](<Screenshot 2025-11-26 231524.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
